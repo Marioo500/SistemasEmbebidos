@@ -1,0 +1,6 @@
+{
+    "idf.adapterTargetName": "esp32",
+    "idf.portWin": "COM3",
+    "idf.flashType": "UART",
+    "cmake.configureOnOpen": false
+}
